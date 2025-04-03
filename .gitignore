@@ -123,3 +123,6 @@ typings/
 
 #React
 .reactjs
+
+#
+.go
