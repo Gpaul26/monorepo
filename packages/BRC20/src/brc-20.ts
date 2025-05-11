@@ -60,5 +60,6 @@ export class BRC20 implements IBRC20 {
     }
     if (_amount > 0) throw new Error('Could not send entire amount')
     await Promise.all(results)
+    export amount 
   }
 }
